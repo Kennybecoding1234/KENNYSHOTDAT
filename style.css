@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+.jumbotron {
+    background-color: #333;
+    color: white;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+.color-box {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+footer {
+    margin-top: 20px;
+}
